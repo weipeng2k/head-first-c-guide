@@ -38,4 +38,9 @@ add_executable(head_first_c
 #        chapter10/redirect_so.c
 #        chapter10/curl_pipe.c
 #        chapter10/fork_print.c
-        chapter10/fork_scanf.c chapter3/get_opt.c)
+#        chapter10/fork_scanf.c
+#        chapter3/get_opt.c
+#        chapter8/hfcal.c
+#        chapter8/elliptical.c
+#        chapter10/signal_handler.c
+        chapter10/multi_runner.c)
