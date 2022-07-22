@@ -43,4 +43,7 @@ add_executable(head_first_c
 #        chapter8/hfcal.c
 #        chapter8/elliptical.c
 #        chapter10/signal_handler.c
-        chapter10/multi_runner.c)
+#        chapter10/multi_runner.c
+#        chapter11/browser_client.c
+        chapter4/url_break.h
+        chapter4/url_break.c)
