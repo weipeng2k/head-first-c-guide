@@ -45,5 +45,8 @@ add_executable(head_first_c
 #        chapter10/signal_handler.c
 #        chapter10/multi_runner.c
 #        chapter11/browser_client.c
-        chapter4/url_break.h
-        chapter4/url_break.c)
+#        chapter4/url_break.h
+#        chapter4/url_break.c
+#        chapter12/multi_print.c
+#        chapter12/counter.c
+        chapter12/callable.c)
